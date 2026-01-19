@@ -1,6 +1,6 @@
 # StackPay
 
-StackPay is a stablecoin payment platform and utility bill payment solution on the Stacks blockchain.
+StackPay is a revolutionary stablecoin payment platform built on the Stacks blockchain.
 
 ## Features
 
