@@ -7,7 +7,7 @@ StackPay is a revolutionary stablecoin payment platform built on the Stacks bloc
 ### Send & Receive USDCx
 Our platform allows you to seamlessly send and receive USDCx across the Stacks network with minimal fees. Experience near-instant settlement times for all your transfers, ensuring your money is where it needs to be when you need it.
 ### Utility Bill Payments
-Pay for essential services like airtime and data directly from your wallet. Settle electricity bills and cable TV subscriptions using your stablecoin balance.
+Pay for essential services like airtime and data directly from your wallet. Settle electricity bills and cable TV subscriptions using your stablecoin balance. Enjoy the convenience of handling all your utility payments in one secure place.
 
 ## Technology
 
