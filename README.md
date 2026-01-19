@@ -18,4 +18,4 @@ We utilize USDCx, a stablecoin on Stacks, to provide a reliable medium of exchan
 ## Getting Started
 To get started with StackPay, you will need a Stacks wallet. We recommend using Xverse or Hiro Wallet for the best experience. Ensure you have some STX for gas fees before initiating any transactions.
 ## Usage
-To use StackPay, connect your wallet to the application. Select the service you wish to pay for from the dashboard.
+To use StackPay, connect your wallet to the application. Select the service you wish to pay for from the dashboard. Confirm the transaction in your wallet to complete the payment.
