@@ -20,4 +20,4 @@ To get started with StackPay, you will need a Stacks wallet. We recommend using 
 ## Usage
 To use StackPay, connect your wallet to the application. Select the service you wish to pay for from the dashboard. Confirm the transaction in your wallet to complete the payment.
 ## Contributing
-Contributions are welcome!
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
