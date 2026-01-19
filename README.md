@@ -12,5 +12,5 @@ Pay for essential services like airtime and data directly from your wallet. Sett
 ## Technology
 
 ### Blockchain
-StackPay is built on the robust Stacks blockchain, inheriting Bitcoin's security.
+StackPay is built on the robust Stacks blockchain, inheriting Bitcoin's security. This ensures that every transaction is settled with the finality of the world's most secure network.
 - **Currency**: USDCx (Stablecoin on Stacks)
