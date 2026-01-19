@@ -4,7 +4,8 @@ StackPay is a revolutionary stablecoin payment platform built on the Stacks bloc
 
 ## Features
 
-- **Send & Receive USDCx**: Seamless stablecoin transactions.
+### Send & Receive USDCx
+Our platform allows you to seamlessly send and receive USDCx across the Stacks network with minimal fees.
 - **Utility Bill Payments**: Pay for airtime, data, electricity bills, and cable TV using USDCx.
 
 ## Technology
