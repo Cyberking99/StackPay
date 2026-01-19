@@ -15,3 +15,5 @@ Pay for essential services like airtime and data directly from your wallet. Sett
 StackPay is built on the robust Stacks blockchain, inheriting Bitcoin's security. This ensures that every transaction is settled with the finality of the world's most secure network.
 ### Currency
 We utilize USDCx, a stablecoin on Stacks, to provide a reliable medium of exchange. This allows users to avoid the volatility typically associated with cryptocurrencies.
+## Getting Started
+To get started with StackPay, you will need a Stacks wallet.
