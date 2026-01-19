@@ -1,6 +1,6 @@
 # StackPay
 
-StackPay is a revolutionary stablecoin payment platform built on the Stacks blockchain. It leverages the security and stability of Bitcoin through the Stacks layer to ensure safe transactions.
+StackPay is a revolutionary stablecoin payment platform built on the Stacks blockchain. It leverages the security and stability of Bitcoin through the Stacks layer to ensure safe transactions. By using USDCx, users can enjoy the benefits of a stable digital currency for their daily needs.
 
 ## Features
 
